@@ -1,5 +1,7 @@
 # Service Workers
-
+- cache first: https://ajputnam.github.io/offline-web-apps/service_workers/cache_first/
+- cache only: https://ajputnam.github.io/offline-web-apps/service_workers/cache_only/
+- as you go: https://ajputnam.github.io/offline-web-apps/service_workers/download_as_you_go/
 
 ## Why its cool
 * Allows the website/web-app to function offline

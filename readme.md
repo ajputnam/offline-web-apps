@@ -4,6 +4,12 @@
 This repository was created to show different ways to create offline web apps. 
 As well as providing information I have found helpful.
 
+### Todays examples
+- http://arthurputnam.com/playground/app_cache/basic/index.html
+- https://ajputnam.github.io/offline-web-apps/app_cache/basic/
+- cache first: https://ajputnam.github.io/offline-web-apps/service_workers/cache_first/
+- cache only: https://ajputnam.github.io/offline-web-apps/service_workers/cache_only/
+- as you go: https://ajputnam.github.io/offline-web-apps/service_workers/download_as_you_go/
 
 ### Offline Technologies
 * Application Cache (web)

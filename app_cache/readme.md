@@ -1,5 +1,6 @@
 # Application Cache
-
+- http://arthurputnam.com/playground/app_cache/basic/index.html
+- https://ajputnam.github.io/offline-web-apps/app_cache/basic/
 
 ## Why its cool
 * Allows the website/web-app to function offline
