@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# App version 1.0
+
+index.html
+about.html
+style.css
+
+
+NETWORK:
+network.html
+
+
+FALLBACK:
+/ fallback.html

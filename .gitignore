@@ -1,0 +1,7 @@
+
+/venv/
+*~
+*.pdf
+documents/img/generated/*
+*.pyc
+~$Offline Web Apps powerpoint.pptx
